@@ -9,8 +9,12 @@
   * [Join](learn/database/join.md)
   * [트랜잭션](learn/database/undefined-1.md)
   * [실행계획](learn/database/undefined-2.md)
+* [Spring](learn/spring/README.md)
+  * [JSP vs Thymeleaf](learn/spring/jsp-vs-thymeleaf.md)
+  * [Spring MVC](learn/spring/spring-mvc.md)
+  * [Spring Security](learn/spring/spring-security.md)
 
-***
+## Study
 
-* [Spring](spring/README.md)
-  * [JSP vs Thymeleaf](spring/jsp-vs-thymeleaf.md)
+* [리팩터링 2판](study/2/README.md)
+  * [2장](study/2/2.md)
