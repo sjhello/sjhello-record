@@ -21,3 +21,4 @@
 
 * [리팩터링 2판](study/2/README.md)
   * [2장](study/2/2.md)
+  * [3장](study/2/3.md)
