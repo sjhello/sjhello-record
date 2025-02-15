@@ -13,6 +13,9 @@
   * [JSP vs Thymeleaf](learn/spring/jsp-vs-thymeleaf.md)
   * [Spring MVC](learn/spring/spring-mvc.md)
   * [Spring Security](learn/spring/spring-security.md)
+* [Tips and Settings](learn/tips-and-settings/README.md)
+  * [IntelliJ Plugins](learn/tips-and-settings/intellij-plugins.md)
+  * [IntelliJ Settings](learn/tips-and-settings/intellij-settings.md)
 
 ## Study
 
