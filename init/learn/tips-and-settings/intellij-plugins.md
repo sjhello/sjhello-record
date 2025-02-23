@@ -21,7 +21,7 @@ description: 사용하는 인텔리제이 플러그인에 대한 설명
 
 ## String Manipulation
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>단축키: Options + M</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>단축키: Options + M</p></figcaption></figure>
 
 * 문자열 조작 플러그인
 * 정렬, 증감, 구분자 지정, 케이스 변환(케밥, 파스칼, 카멜 등), 따옴표 변환 문자열을 조작할 수 있는 여러가지 기능을 제공한다.
@@ -55,7 +55,7 @@ description: 사용하는 인텔리제이 플러그인에 대한 설명
 
 ## Tab Shifter
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>단축키</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>단축키</p></figcaption></figure>
 
 ## GitToolBox
 
