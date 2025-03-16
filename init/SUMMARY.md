@@ -32,3 +32,4 @@
   * [5장](study/2/5.md)
   * [6장](study/2/6.md)
   * [7장](study/2/7.md)
+  * [8장](study/2/8.md)
