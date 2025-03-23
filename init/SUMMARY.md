@@ -25,6 +25,8 @@
 
 ## Study
 
+* [오브젝트](study/undefined/README.md)
+  * [1장](study/undefined/1.md)
 * [리팩터링 2판](study/2/README.md)
   * [2장](study/2/2.md)
   * [3장](study/2/3.md)
