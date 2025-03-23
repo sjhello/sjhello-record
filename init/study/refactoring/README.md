@@ -1,5 +1,4 @@
 ---
-description: 판
 icon: book-open
 ---
 
