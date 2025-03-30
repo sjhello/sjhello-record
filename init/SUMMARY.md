@@ -27,6 +27,7 @@
 
 * [오브젝트](study/object/README.md)
   * [1장](study/object/1.md)
+  * [2장](study/object/2.md)
 * [리팩터링 2판](study/refactoring/README.md)
   * [2장](study/refactoring/2.md)
   * [3장](study/refactoring/3.md)
